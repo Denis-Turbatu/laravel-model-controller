@@ -1,4 +1,4 @@
-<div class="card" style="width: 18rem;">
+<div class="card mb-4">
     <img src="{{ asset($movie['image']) }}" class="card-img-top" alt="{{ $movie['title'] }}">
     <div class="card-body">
         <p class="card-text">
